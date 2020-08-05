@@ -27,14 +27,14 @@ Gostou da ideia?
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
-*[Dia 01 - Icone de mídia social em camadas](#id01)
+* [Dia 01 - Icone de mídia social em camadas](#id01)
 
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://github.com/RafaelLucasP/30diasDeCSS/desafios/dia-01/desafio-1.gif)
+![Dia 01](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-01/desafio-1.gif)
 
-[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/desafios/dia-01)
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-01)
 
 [Tutorial Medium]() *Ainda não disponivel*
 
@@ -44,6 +44,6 @@ Gostou da ideia?
 ##### O que eu aprendi
 
 * Criar camadas utilizando a tag `<span>`
-* [skew] (https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)
-* [Position] (https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
-* [nth-child()] (https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
+* [skew](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)
+* [Position](https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
+* [nth-child()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
