@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+    position: relative; /*usa position relative pois absolute so considera pai um elemento nao static*/
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    margin: 0 30px;
+    transform: rotate(-30deg) skew(25deg); /*Deixa os elementos inclinados e "deitados"*/
+    background: #ccc;
+}
+
+ul li span{
+    position: absolute; /*usa absolute para relacionar ao pai */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    transition: 0.5s;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px !important;
+}
+ul li:hover span:nth-child(4){
+    transform: translate( 40%,-40%);
+    opacity: 1;
+}
+
+ul li:hover span:nth-child(3){
+    transform: translate( 30%,-30%);
+    opacity: 0.8;
+}
+
+ul li:hover span:nth-child(2){
+    transform: translate( 20%,-20%);
+    opacity: 0.6;
+}
+
+ul li:hover span:nth-child(1){
+    transform: translate( 10%,-10%);
+    opacity: 0.4;
+}
+
+ul li:nth-child(1) span{
+    background-color: #3b5999;
+}
+
+
+ul li:nth-child(5) span{
+    background-color: #dd4b39;
+}
+
+ul li:nth-child(3) span{
+    background-color: #55acee;
+}
+
+ul li:nth-child(4) span{
+    background-color: #0077b5;
+}
+
+ul li:nth-child(2) span{
+    background-color: #e4405f;
+}
