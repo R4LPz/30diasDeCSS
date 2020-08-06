@@ -28,6 +28,7 @@ Gostou da ideia?
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
 * [Dia 01 - Icone de mídia social em camadas](#id01)
+* [Dia 01 - Icone de mídia social em camadas](#id02)
 
 
 
@@ -47,3 +48,18 @@ Gostou da ideia?
 * [skew](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)
 * [Position](https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
 * [nth-child()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
+
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![Dia 02](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-02/dia-02.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-02)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-02-loader-animado-segundo-desafio-activity-6696957034836840449-OsSc) 
+
+
+##### O que eu aprendi
+
+* animations e rotate
