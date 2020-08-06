@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.ring-1, .ring-2, .text{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+
+}
+
+.ring-1{
+    border: 5px solid transparent;
+    box-shadow: 9px 0 8px rgb(81, 255, 0);
+    border-radius: 50%;
+    animation: ring-1 2.5s linear infinite;
+}
+
+
+.ring-2{
+    border: 5px solid transparent;
+    box-shadow: 0 9px 8px cyan;
+    border-radius: 50%;
+    animation: ring-2 2.5s linear infinite;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fira Code', monospace;
+    color: black;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 4px black;
+    font-size: 24px;
+}
+
+@keyframes ring-1{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes ring-2{
+    0%{
+        transform: rotate(360deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
