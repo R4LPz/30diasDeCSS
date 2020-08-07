@@ -30,6 +30,7 @@ Gostou da ideia?
 * [Dia 01 - Icone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
 * [Dia 03 - Transição de texto por div](#id03)
+* [Dia 04 - Botão com efeito](#id04)
 
 
 
@@ -66,7 +67,7 @@ Gostou da ideia?
 * animations e rotate
 
 ##  Desafio dia 03 - Mudnaça de texto através de div <a name="id03"></a>
-![Dia 02](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-03/Desafio-03.gif)
+![Dia 03](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-03/Desafio-03.gif)
 
 [Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-03)
 
@@ -78,3 +79,20 @@ Gostou da ideia?
 ##### O que eu aprendi
 
 * [overflow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow)
+
+##  Desafio dia 04 - Botão com efeito hover <a name="id04"></a>
+![Dia 04](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-04/dia-04.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-04)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-04-bot%C3%A3o-com-efeito-hoje-foi-dia-activity-6697642183958249472-fak9) 
+
+
+##### O que eu aprendi
+
+* [O que são pseudo classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
+* [::before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
+* [::after](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after)
+* além de reforçar os conhecimentos de `position` adquiridos nos desafios anteriores
