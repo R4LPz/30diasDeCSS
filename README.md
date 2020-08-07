@@ -28,7 +28,8 @@ Gostou da ideia?
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
 * [Dia 01 - Icone de mídia social em camadas](#id01)
-* [Dia 01 - Icone de mídia social em camadas](#id02)
+* [Dia 02 - Loader animado](#id02)
+* [Dia 03 - Transição de texto por div](#id03)
 
 
 
@@ -63,3 +64,17 @@ Gostou da ideia?
 ##### O que eu aprendi
 
 * animations e rotate
+
+##  Desafio dia 03 - Mudnaça de texto através de div <a name="id03"></a>
+![Dia 02](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-03/Desafio-03.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-03)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-03-transi%C3%A7%C3%A3o-de-cor-de-texto-o-desafio-activity-6697292445505359873-VrOA) 
+
+
+##### O que eu aprendi
+
+* [overflow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow)

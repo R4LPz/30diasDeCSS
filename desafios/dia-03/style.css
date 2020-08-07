@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 100vw;
+    height: 100vh;
+    background: url(sol.png);
+    background-position: 500px;
+    box-sizing: border-box;
+    overflow: hidden; /* para transbordar o box*/
+    position: absolute;
+    color: yellow;
+}
+
+.wrapper{
+    height: 100%;
+    width: 50%;
+    background: url(lua.png);
+    background-position: center;
+    overflow: hidden;
+    color: blue;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-right: 2px solid #262626;
+}
+
+.sliding{
+    position: absolute;
+    top: 50%;
+    white-space: nowrap;/*oque e*/
+    font-size: 12em;
+    line-height: 220px;
+    overflow: hidden;
+    font-family: "arial black";
+    animation: slide 30s linear infinite;
+}
+
+@keyframes slide{
+    0%{
+        transform: translate(0, -50%);
+    }
+
+    100%{
+        transform: translate(-50%, -50%);
+    }
+}
