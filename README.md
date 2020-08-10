@@ -32,6 +32,7 @@ Gostou da ideia?
 * [Dia 03 - Transição de texto por div](#id03)
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
+* [Dia 06 - Efeito lightning text](#id06)
 
 
 
