@@ -111,3 +111,18 @@ Gostou da ideia?
 ##### O que eu aprendi
 
 * [Box shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow) e suas propriedades
+
+##  Desafio dia 06 - Efeito lightning text <a name="id06"></a>
+![Dia 06](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-06/dia-06.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-06)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-06-efeito-lightning-text-achei-activity-6698592241943879680-9VKm) 
+
+
+##### O que eu aprendi
+
+* [Box shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)
+* [Animation delay](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation-delay)
