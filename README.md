@@ -33,6 +33,7 @@ Gostou da ideia?
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning text](#id06)
+* [Dia 07 - Preloader animado](#id07)
 
 
 
