@@ -127,3 +127,18 @@ Gostou da ideia?
 
 * [Box shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)
 * [Animation delay](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation-delay)
+
+##  Desafio dia 07 - Preloader animado <a name="id07"></a>
+![Dia 06](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-07/dia-07.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-07)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-07-preloader-animado-tenho-sentido-activity-6698937134671257600-WwQ1) 
+
+
+##### O que eu aprendi
+
+* [Box shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)
+* [Animation delay](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation-delay)
