@@ -34,6 +34,7 @@ Gostou da ideia?
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning text](#id06)
 * [Dia 07 - Preloader animado](#id07)
+* [Dia 08 - Coração batendo](#id08)
 
 
 
@@ -143,3 +144,19 @@ Gostou da ideia?
 
 * [Box shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)
 * [Animation delay](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation-delay)
+
+
+##  Desafio dia 08 - Coração batendo <a name="id08"></a>
+![Dia 06](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-8/dia-08.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-08)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-08-cora%C3%A7%C3%A3o-batendo-esse-foi-bem-activity-6699321178424672256-IY47) 
+
+
+##### O que eu aprendi
+
+* animations
+* Font awesome
