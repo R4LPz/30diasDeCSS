@@ -147,7 +147,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 08 - Coração batendo <a name="id08"></a>
-![Dia 08](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-8/dia-08.gif)
+![Dia 08](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-08/dia-08.gif)
 
 [Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-08)
 
