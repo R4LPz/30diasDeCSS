@@ -36,6 +36,7 @@ Gostou da ideia?
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
+* [Dia 10 - Texto animado alternando](#id09)
 
 
 
@@ -163,7 +164,7 @@ Gostou da ideia?
 * Font awesome
 
 ##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
-![Dia 08](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-09/dia-09.gif)
+![Dia 09](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-09/dia-09.gif)
 
 [Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-09)
 
@@ -171,9 +172,24 @@ Gostou da ideia?
 
 [Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-09-pendulo-de-newton-ontem-foi-activity-6700031772719116288-0P_U) 
 
-
 ##### O que eu aprendi
 
 * [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
 * [first-child e last-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:first-child)
+* [propriedades de animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+
+##  Desafio dia 10 - Texto animado alternando <a name="id10"></a>
+![Dia 10](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-10/dia-10.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-10)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-10-texto-animado-alternando-2%C2%AA-miss%C3%A3o-activity-6700094850458497024-Pa2C) 
+
+##### O que eu aprendi
+
+* mesclagem de fundo com imagem
+* [before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
 * [propriedades de animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)

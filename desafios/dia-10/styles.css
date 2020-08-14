@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background: url('https://www.ppt-backgrounds.net/thumbs/game-ppt.jpeg') rgb(5, 110, 170);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    color: white;
+    text-shadow: 4px 4px 2px black;
+}
+
+.texto::before{
+    content: '';
+    animation: create-text 8s linear infinite;
+}
+
+.cursor{
+    margin-left: 20px;
+    animation: cursor .3s linear infinite;
+}
+
+
+@keyframes create-text{
+    0% {content: '';}
+    2% {content: 'P';}
+    4% {content: 'Pr';}
+    6% {content: 'Prog';}
+    8% {content: 'Progr';}
+    10% {content: 'Progra';}
+    12% {content: 'Program';}
+    14% {content: 'Programa';}
+    16% {content: 'Programar ';}
+    18% {content: 'Programar 💻';}
+    20% {content: 'Programar 💻';}
+    22% {content: 'Programar 💻';}
+    24% {content: 'Programar';}
+    26% {content: 'Programa';}
+    28% {content: 'Program';}
+    30% {content: 'Progra';}
+    32% {content: 'Progr';}
+    34% {content: 'Prog';}
+    36% {content: 'Pro';}
+    38% {content: 'Pr';}
+    40% {content: 'P';}
+    42% {content: '';}
+    44% {content: 'J';}
+    46% {content: 'Jo';}
+    48% {content: 'Jog';}
+    50% {content: 'Joga';}
+    52% {content: 'Jogar';}
+    54% {content: 'Jogar 🎮';}
+    56% {content: 'Jogar 🎮';}
+    58% {content: 'Jogar 🎮';}
+    60% {content: 'Jogar';}
+    62% {content: 'Joga';}
+    64% {content: 'Jog';}
+    66% {content: 'Jo';}
+    68% {content: 'J';}
+    70% {content: '';}
+    72% {content: 'C';}
+    74% {content: 'Co';}
+    76% {content: 'Com';}
+    78% {content: 'Come';}
+    80% {content: 'Comer';}
+    82% {content: 'Comer 🍕';}
+    84% {content: 'Comer 🍕';}
+    86% {content: 'Comer 🍕';}
+    88% {content: 'Comer';}
+    90% {content: 'Come';}
+    92% {content: 'Com';}
+    94% {content: 'Co';}
+    96% {content: 'C';}
+    98% {content: '';}
+    100% {content: '';}
+}
+
+@keyframes cursor {
+    0% {
+        border-right: 25px solid transparent;
+    }
+    50% {
+        border-right: 25px solid #000;
+    }
+    100% {
+        border-right: 25px solid transparent;
+    }
+}
