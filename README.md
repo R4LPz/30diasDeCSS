@@ -36,7 +36,7 @@ Gostou da ideia?
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
-* [Dia 10 - Texto animado alternando](#id09)
+* [Dia 10 - Texto animado alternando](#id10)
 
 
 
