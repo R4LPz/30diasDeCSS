@@ -35,6 +35,7 @@ Gostou da ideia?
 * [Dia 06 - Efeito lightning text](#id06)
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08 - Coração batendo](#id08)
+* [Dia 09 - Pendulo de Newton](#id09)
 
 
 
@@ -160,3 +161,19 @@ Gostou da ideia?
 
 * animations
 * Font awesome
+
+##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
+![Dia 08](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-09/dia-09.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-09)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-09-pendulo-de-newton-ontem-foi-activity-6700031772719116288-0P_U) 
+
+
+##### O que eu aprendi
+
+* [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
+* [first-child e last-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:first-child)
+* [propriedades de animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
