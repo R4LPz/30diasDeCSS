@@ -210,7 +210,6 @@ Gostou da ideia?
 
 ##### O que eu aprendi
 
-* mesclagem de fundo com imagem
 * [before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
 * propriedades odd e even.
 
