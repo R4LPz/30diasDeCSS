@@ -37,6 +37,7 @@ Gostou da ideia?
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Texto animado alternando](#id10)
+* [Dia 11 - Botao com efeito hover](#id10)
 
 
 
@@ -193,3 +194,23 @@ Gostou da ideia?
 * mesclagem de fundo com imagem
 * [before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
 * [propriedades de animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+
+
+
+
+##  Desafio dia 11 - Botão com efeito hover <a name="id11"></a>
+![Dia 10](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-11/dia-11.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-11)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-11-bot%C3%A3o-com-efeito-hover-bem-em-activity-6700579536884531200-HxKK) 
+
+##### O que eu aprendi
+
+* mesclagem de fundo com imagem
+* [before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
+* propriedades odd e even.
+

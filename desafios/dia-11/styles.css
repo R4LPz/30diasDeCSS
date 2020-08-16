@@ -1,0 +1,60 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border: 2px solid #262626;
+    outline: none;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: #262626;
+    overflow: hidden;
+}
+
+button span{
+    display: inline-block;
+    transition: 0.5s;
+}
+
+button span:nth-child(odd)::before{
+    content: attr(data-text);
+    position: absolute;
+    transform: translateY(100%);
+}
+
+button span:nth-child(odd){
+    transform: translateY(-100%);
+}
+
+button:hover span:nth-child(odd){
+    transform: translateY(0%);
+}
+
+button span:nth-child(even)::before{
+    content: attr(data-text);
+    position: absolute;
+    transform: translateY(-100%);   
+}
+
+button span:nth-child(even){
+    transform: translateY(100%);
+}
+
+button:hover span:nth-child(even){
+    transform: translateY(0%);
+}
+
