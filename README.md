@@ -37,7 +37,8 @@ Gostou da ideia?
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Texto animado alternando](#id10)
-* [Dia 11 - Botao com efeito hover](#id10)
+* [Dia 11 - Botao com efeito hover](#id11)
+* [Dia 12 - Texto com efeito hover](#id12)
 
 
 
@@ -212,4 +213,18 @@ Gostou da ideia?
 
 * [before](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
 * propriedades odd e even.
+
+
+##  Desafio dia 12 - Texto com efeito hover <a name="id12"></a>
+![Dia 12](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-12/dia-12.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-12)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-12-texto-com-efeito-hover-uma-%C3%B3tima-activity-6701274391155638272-iVix) 
+
+##### O que eu aprendi
+
+* Assimilação de conteudos anteriores, o código em si é bem simples!
 
