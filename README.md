@@ -39,6 +39,7 @@ Gostou da ideia?
 * [Dia 10 - Texto animado alternando](#id10)
 * [Dia 11 - Botao com efeito hover](#id11)
 * [Dia 12 - Texto com efeito hover](#id12)
+* [Dia 13 - Loading animado](#id13)
 
 
 
@@ -227,4 +228,22 @@ Gostou da ideia?
 ##### O que eu aprendi
 
 * Assimilação de conteudos anteriores, o código em si é bem simples!
+
+
+
+
+##  Desafio dia 13 - Loading animado <a name="id13"></a>
+![Dia 13](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-13/dia-13.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-13)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-13-loading-animado-aprendendo-um-activity-6701619052323962880-386y) 
+
+##### O que eu aprendi
+
+* Propriedades de box shadow
+* Movimentação de sombras com o objeto
+
 
