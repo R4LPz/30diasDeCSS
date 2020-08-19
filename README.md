@@ -40,6 +40,7 @@ Gostou da ideia?
 * [Dia 11 - Botao com efeito hover](#id11)
 * [Dia 12 - Texto com efeito hover](#id12)
 * [Dia 13 - Loading animado](#id13)
+* [Dia 14 - Texto com fundo animado](#id14)
 
 
 
@@ -245,5 +246,21 @@ Gostou da ideia?
 
 * Propriedades de box shadow
 * Movimentação de sombras com o objeto
+
+
+##  Desafio dia 14 - Texto com fundo animado <a name="id14"></a>
+![Dia 13](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-14/dia-14.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-14)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-14-texto-com-fundo-animado-relembrando-activity-6701992487759712257-TEWZ) 
+
+##### O que eu aprendi
+
+* Propriedades de box shadow
+* Movimentação de objeto
+* z-index
 
 
