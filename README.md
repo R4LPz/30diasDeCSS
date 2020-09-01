@@ -41,6 +41,7 @@ Gostou da ideia?
 * [Dia 12 - Texto com efeito hover](#id12)
 * [Dia 13 - Loading animado](#id13)
 * [Dia 14 - Texto com fundo animado](#id14)
+* [Dia 15 - Menu animado](#id15)
 
 
 
@@ -263,4 +264,18 @@ Gostou da ideia?
 * Movimentação de objeto
 * z-index
 
+##  Desafio dia 15 - Menu animado <a name="id15"></a>
+![Dia 15](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-15/dia-15.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-15)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn](https://www.linkedin.com/posts/rafael-lucas-pereira-350590186_dia-15-menu-animado-estou-oficialmente-activity-6706615403663106049-0ESS) 
+
+##### O que eu aprendi
+
+* linear-grandient
+* Movimentação de objeto
+* z-index
 
