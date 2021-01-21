@@ -1,23 +1,23 @@
-# 🚀 30diasDeCSS 🚀
+# 🚀 30diasDeCSS 
  
  Está é a minha versão do desafio 30 dias de CSS3 da [@MilenaCarecho](https://github.com/MilenaCarecho/30diasDeCSS), vou seguir os mesmos desafios, mas com minhas alterações e preferências pessoais.
 
  Todos os créditos a idealizadora do projeto. 😄
 
-# Objetivo 
+# 🏃‍♂️ Objetivo 
 
 30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 4 de Agosto de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos. 
 
-# Regras gerais 
+# 🖊️ Regras gerais 
 
 * Realizar um projeto por dia
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
-# Regras pra mim ✔
-Eu criei algumas regras para mim que não quero impor a ninguém, mas fique à vontade para fazer o mesmo, se quiser!
+# ℹ️ Observações 
 
-* Vou criar um artigo tutorial no [medium]() para todos os projetos no final de cada semana.
+Por problemas pessoais e devido a pandemia da covid-19 tive problemas para realizar o projeto, e retomei para não deixa-lo pela metade.
+Portanto existe um gap de tempo entre o desafio 15 e 16, contanto não postarei apartir deste ponto os desafios no Linkedin, apenas serão cumpridos no github.
 
 Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
@@ -26,6 +26,9 @@ Gostou da ideia?
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+
+
+# 📚 Desafios
 
 * [Dia 01 - Icone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
@@ -42,6 +45,7 @@ Gostou da ideia?
 * [Dia 13 - Loading animado](#id13)
 * [Dia 14 - Texto com fundo animado](#id14)
 * [Dia 15 - Menu animado](#id15)
+* [Dia 16 - Card animado](#id16)
 
 
 
@@ -278,4 +282,16 @@ Gostou da ideia?
 * linear-grandient
 * Movimentação de objeto
 * z-index
+
+##  Desafio dia 16 - Card animado <a name="id16"></a>
+![Dia 16](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-16/dia-16.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-16)
+
+##### O que eu aprendi
+
+* visibility
+* clip-path
+* hierarquia e herança 
+
 
