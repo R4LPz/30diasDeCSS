@@ -46,7 +46,7 @@ Gostou da ideia?
 * [Dia 14 - Texto com fundo animado](#id14)
 * [Dia 15 - Menu animado](#id15)
 * [Dia 16 - Card animado](#id16)
-* * [Dia 16 - Card animado](#id17)
+* [Dia 17 - Galeria responsiva](#id17)
 
 
 
