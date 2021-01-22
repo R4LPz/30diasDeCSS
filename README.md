@@ -46,6 +46,7 @@ Gostou da ideia?
 * [Dia 14 - Texto com fundo animado](#id14)
 * [Dia 15 - Menu animado](#id15)
 * [Dia 16 - Card animado](#id16)
+* * [Dia 16 - Card animado](#id17)
 
 
 
@@ -294,4 +295,15 @@ Gostou da ideia?
 * clip-path
 * hierarquia e herança 
 
+
+##  Desafio dia 17 - Galeria responsiva <a name="id16"></a>
+![Dia 17](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-17/dia-17.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-17)
+
+##### O que eu aprendi
+
+* media query
+* grid template
+* grid row e column
 
