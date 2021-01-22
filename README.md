@@ -296,7 +296,7 @@ Gostou da ideia?
 * hierarquia e herança 
 
 
-##  Desafio dia 17 - Galeria responsiva <a name="id16"></a>
+##  Desafio dia 17 - Galeria responsiva <a name="id17"></a>
 ![Dia 17](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-17/dia-17.gif)
 
 [Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-17)
