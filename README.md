@@ -47,6 +47,7 @@ Gostou da ideia?
 * [Dia 15 - Menu animado](#id15)
 * [Dia 16 - Card animado](#id16)
 * [Dia 17 - Galeria responsiva](#id17)
+* [Dia 18 - Formulário de pesquisa animado](#id18)
 
 
 
@@ -306,4 +307,15 @@ Gostou da ideia?
 * media query
 * grid template
 * grid row e column
+
+
+##  Desafio dia 18 - Formulário de pesquisa animado <a name="id18"></a>
+![Dia 18](https://github.com/RafaelLucasP/30diasDeCSS/blob/master/desafios/dia-18/dia-18.gif)
+
+[Meu codigo](https://github.com/RafaelLucasP/30diasDeCSS/tree/master/desafios/dia-18)
+
+##### O que eu aprendi
+
+* posicionamento com float
+* Seletor child (>)
 
